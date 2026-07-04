@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# Архив сборки (12 МБ) — собирается отдельно
+sanpin-site-publish.zip
+
+# Локальная конфигурация и кэш агента
+.claude/
+tmp/

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40" role="img" aria-label="Бренд">
+  <title>Логотип-плейсхолдер</title>
+  <!-- знак: монобуква в круге -->
+  <g fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="20" cy="20" r="18" />
+    <path d="M14 27 V14 L26 27 V14" />
+  </g>
+  <!-- текстовая часть -->
+  <text x="50" y="26" font-family="Manrope, system-ui, sans-serif" font-size="18" font-weight="700" fill="#F4F6F9" letter-spacing="0.5">Бренд</text>
+</svg>
